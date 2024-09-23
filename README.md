@@ -1,4 +1,3 @@
-<h1 align="center">Hey! I'm Jen</h1>
 <h3 align="center">Data Analyst | Expert in Data Visualization, Tableau, and R</h3>
 
 - 🔭 I’m currently working at the [U.S. Geological Survey](https://www.usgs.gov/centers/california-water-science-center/science/biogeochemistry-group#overview)
