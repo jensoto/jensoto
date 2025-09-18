@@ -1,4 +1,4 @@
-<h3 align="center">Data Analyst | Expert in Data Visualization, Tableau, and R</h3>
+<h3 align="center">Data Explorer | Analyst’s Eye, Scientist’s Mind</h3>
 
 - 🔭 Welcome to my GitHub profile! A central hub where my academic portfolio and data projects live. Part analyst’s toolkit, part curiosity lab.
 
