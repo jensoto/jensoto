@@ -1,6 +1,6 @@
 <h3 align="center">Data Analyst | Expert in Data Visualization, Tableau, and R</h3>
 
-- 🔭 I’m currently working at the [U.S. Geological Survey](https://www.usgs.gov/centers/california-water-science-center/science/biogeochemistry-group#overview)
+- 🔭 Welcome to my GitHub profile! A central hub where my academic portfolio and data projects live. Part analyst’s toolkit, part curiosity lab.
 
 - 👨‍💻 Check out some of my projects from my Master's Degree in Data Analytics at [https://github.com/jensoto/MPS-DataAnalytics](https://github.com/jensoto/MPS-DataAnalytics)
 
